@@ -1,4 +1,4 @@
-fast smart glove
+FAST Smart Glove
 ==================
 
  This project contains a code  that operate the fast smart glove.
